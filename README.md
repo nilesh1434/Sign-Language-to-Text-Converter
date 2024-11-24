@@ -32,7 +32,7 @@ git clone https://github.com/yourgithubusername/asl-to-text-converter.git
 cd asl-to-text-converter
 ```
 
-### 2️⃣ Clone the Repository
+### 3️⃣ Set Up a Virtual Environment
 
 # Create the virtual environment  
 python -m venv venv  
