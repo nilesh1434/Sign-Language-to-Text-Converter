@@ -34,13 +34,13 @@ cd asl-to-text-converter
 
 ### 3️⃣ Set Up a Virtual Environment
 
-# Create the virtual environment  
+Create the virtual environment  
 python -m venv venv  
 
-# Activate the virtual environment  
-# Windows:  
+Activate the virtual environment  
+Windows:  
 venv\Scripts\activate  
-# macOS/Linux:  
+macOS/Linux:  
 source venv/bin/activate  
 
 ### 4️⃣ Install Dependencies
