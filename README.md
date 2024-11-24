@@ -64,3 +64,24 @@ The program uses your webcam to capture real-time hand gestures.
 Mediapipe detects and tracks hand landmarks.
 TensorFlow processes the gestures to classify them into English alphabets.
 CVZone overlays the recognized text onto the video feed.
+
+### 📖 Future Improvements
+Add support for ASL words and phrases.
+Improve model accuracy with more extensive training data.
+Develop a GUI for better usability.
+
+### 🙌 Contributions
+Feel free to contribute by opening issues or submitting pull requests.
+
+### 📧 Contact
+If you have any questions or feedback, please reach out:
+
+Email: jain.nilesh1203@gmail.com
+GitHub: [Your GitHub Profile](https://github.com/nilesh1434)
+
+### 📝 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Thank you for exploring my project! 🎉
+
+Happy Coding!!!
