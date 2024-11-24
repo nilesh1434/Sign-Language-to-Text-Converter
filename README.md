@@ -30,6 +30,7 @@ Ensure you have Python installed (preferably version 3.7+).
 ```bash  
 git clone https://github.com/yourgithubusername/asl-to-text-converter.git  
 cd asl-to-text-converter
+```
 
 ### 2️⃣ Clone the Repository
 
@@ -41,3 +42,19 @@ python -m venv venv
 venv\Scripts\activate  
 # macOS/Linux:  
 source venv/bin/activate  
+
+### 4️⃣ Install Dependencies
+```bash
+pip install mediapipe cvzone tensorflow 
+```
+
+### 5️⃣ Run the Program
+```bash
+python main.py 
+```
+
+### 📸 How It Works
+The program uses your webcam to capture real-time hand gestures.
+Mediapipe detects and tracks hand landmarks.
+TensorFlow processes the gestures to classify them into English alphabets.
+CVZone overlays the recognized text onto the video feed.
