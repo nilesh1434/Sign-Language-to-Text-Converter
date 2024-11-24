@@ -77,7 +77,7 @@ Feel free to contribute by opening issues or submitting pull requests.
 If you have any questions or feedback, please reach out:
 
 Email: jain.nilesh1203@gmail.com
-GitHub: [Your GitHub Profile](https://github.com/nilesh1434)
+GitHub: [My GitHub Profile](https://github.com/nilesh1434)
 
 ### 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
