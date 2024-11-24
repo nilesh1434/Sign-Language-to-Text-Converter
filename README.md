@@ -78,9 +78,6 @@ If you have any questions or feedback, please reach out:
 
 Email: jain.nilesh1203@gmail.com | GitHub: [My GitHub Profile](https://github.com/nilesh1434) | Website: [thenileshjain.com](http://thenileshjain.com)
 
-### 📝 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Thank you for exploring my project! 🎉
 
 Happy Coding!!!
