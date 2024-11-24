@@ -55,9 +55,7 @@ pip install mediapipe cvzone tensorflow
 ```
 
 ### 5️⃣ Run the Program
-```bash
-python main.py 
-```
+Simply press the run button.
 
 ### 📸 How It Works
 The program uses your webcam to capture real-time hand gestures.
